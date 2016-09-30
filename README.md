@@ -1,4 +1,4 @@
-# Angular2 Bootstrap Modal Component Demo - jspm
+# Angular2 Bootstrap Modal Component Demo - angular-cli
 A demo of [ng2-bs3-modal](https://github.com/dougludlow/ng2-bs3-modal), showing how to use the component with the [angular-cli](https://github.com/angular/angular-cli).
 
 ## Building this project
